@@ -1,4 +1,5 @@
-## Website Performance Optimization portfolio project
+## Website Performance Optimization
+
 <!--You need to write a personalised README that lists the optimisations you performed to meet specifications for Critical Rendering Path, Frame Rate, and Computation Efficiency. Likewise, the README should also mention all the steps to successfully run the application.-->
 
 ### Steps taken to optimize the portfolio
